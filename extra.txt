@@ -1,2 +1,1 @@
-hello world
-I'm Mingi Choi.
+hello world!
